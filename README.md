@@ -20,3 +20,6 @@ The pipeline includes:
 - Evaluation segmentation metrics including region-based and distance-based metrics
 
 
+## Contact
+Please contact mrasteg2@uwo.ca for any further questions.
+
