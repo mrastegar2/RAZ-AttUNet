@@ -20,7 +20,8 @@ The pipeline includes:
 - Evaluation segmentation metrics including region-based and distance-based metrics
 
 ## Proposed Workflow
-<img width="2127" height="1436" alt="Workflow" src="https://github.com/user-attachments/assets/5e7df097-bb26-4c8d-ba0f-18039adf48ab" />
+<img width="2121" height="1431" alt="Workflow 2025-11-25" src="https://github.com/user-attachments/assets/8243a728-109f-4694-8f25-4b99198a80a9" />
+
 
 ## Contact
 Please contact mrasteg2@uwo.ca for any further questions.
