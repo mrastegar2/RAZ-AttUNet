@@ -9,7 +9,7 @@ Attention-driven framework to segment renal ablation zone in post-treatment CT i
 
 ## Overview
 
-We train an advanced deep-learning method using the Attention-based U-Net architecture to segment the Renal Ablation Zone in CT images.  
+We train an advanced deep-learning method using the Attention-based U-Net architecture to segment the Renal Ablation Zone (RAZ) in CT images.  
 
 The pipeline includes:
 
